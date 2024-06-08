@@ -1,5 +1,6 @@
 # Ziglings
 
+<<<<<<< HEAD
 Welcome to Ziglings! This project contains a series of tiny
 broken programs (and one nasty surprise).  By fixing them, you'll
 learn how to read and write [Zig](https://ziglang.org/) code.
@@ -215,6 +216,13 @@ Zig Core Language
 * [X] Threading
 
 Zig Standard Library
+=======
+## ⚠️ Attention! Ziglings has moved to Codeberg!
+
+Check out directly our handy new URL: https://ziglings.org
+
+Or visit the repo at: https://codeberg.org/ziglings/exercises
+>>>>>>> 6903b9480d3d4f6ce2b828242e92dd544cb397a6
 
 * [X] String formatting
 * [X] Testing
